@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Questions exhibited by the Parliament now in Scotland assembled, concerning the Earle of Montroise his plott. As also, their order to Generall Lesly for marching of the army : and some Parliament occurences there. Rege presente.</title>
+            <author>Scotland. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92602</idno><idno type="EEBO-CITATION">99860177</idno>
+  <idno type="VID">157055</idno>
+  <idno type="EEBO-PROQUEST">2240860330</idno>
+  
+            <idno type="STC">Wing S1328</idno>
+            <idno type="STC">Thomason E172_3</idno>
+            <idno type="STC">ESTC R17367</idno>
+            <idno type="PROQUEST">99860177</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99860177e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92602)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157055)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 30:E172[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Questions exhibited by the Parliament now in Scotland assembled, concerning the Earle of Montroise his plott. As also, their order to Generall Lesly for marching of the army : and some Parliament occurences there. Rege presente.</title>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[Edinburgh? :</pubPlace>
+                  <date>Printed in the yeare 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Leven, Alexander Leslie, --  Earl of, 1580?-1661 --  Early works to 1800.</term>
+               <term type="personal_name">Montrose, James Graham, --  Marquis of, 1612-1650 --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  Politics and government --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157055:1"/>
+            <pb facs="tcp:157055:1"/>
+            <p>QVESTIONS EXHIBITED BY THE PARLIA<g ref="char:EOLhyphen"/>MENT NOVV IN <hi>SCOT<g ref="char:EOLhyphen"/>LAND</hi> ASSEMBLED, CONCERNING The Earle of <hi>Montroise</hi> his Plott.</p>
+            <p>AS ALSO, Their order to Generall <hi>Lesly</hi> for Marching of the Army: and some Parlia<g ref="char:EOLhyphen"/>ment occurences there. <hi>Rege presente.</hi>
+            </p>
+            <p>Printed in the yeare 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:157055:2"/>
+            <pb n="3" facs="tcp:157055:2"/>
+            <head>QVESTIONS Concerning the Earle of Montrois his Plott.</head>
+            <head type="sub">As the present question anent the <hi>Plotters</hi> stands, it is neither vpon the relevan<g ref="char:EOLhyphen"/>cy, nor probation of the Articles layd to their charge; but onely, to be the ground of citation, where vpon these Questi<g ref="char:EOLhyphen"/>ons are moved.</head>
+            <p n="1">1 WHether in law and equitie there bee a sufficient ground, for Citation of the Plotters upon Perjury, for breaking the Oath of the Covenant; their Oath at the receiving of their charge at the Committees; and their Oath at the Subscribing of the Gene<g ref="char:EOLhyphen"/>rall Bond, for maintaining the Acts of Parlia<g ref="char:EOLhyphen"/>ment: all which are instanced (besides many other particulars) in the 1. Article.</p>
+            <p>By their divifive motions. By their false ac<g ref="char:EOLhyphen"/>cusations of the Committee of Estate for per<g ref="char:EOLhyphen"/>jury.
+<pb n="4" facs="tcp:157055:3"/>By their vnderhand dealing, contrary to their publike faith, subscription, and generall course of the Committee of Estate. By their seeking publike preferment for themselues, and contrary to the publike Warrant. By their keeping backe of their Companies from the Armie, against the generall orders, to the great publike prejudice. By their plots for disban<g ref="char:EOLhyphen"/>ding of our Army, without the knowledge of the Estate or General. By the intelligence with the enemy. By rasing division betwixt the No<g ref="char:EOLhyphen"/>bility &amp; Committee of Estate. By their dealing with <hi>Traquair,</hi> and for him contrary to their publike Oath, protestations, and instructions. As is fully exprest in the 1. Article.</p>
+            <p n="2">2 Whether in law and equity there be a suffi<g ref="char:EOLhyphen"/>cient ground for citation of makers of lyes, and lying reports, which may ingender discord be<g ref="char:EOLhyphen"/>twixt the King and his people especially when these lyes are invented and vented against a Parliament, and the Committees from the Parliament, as intended to depose the King, or to dedestroy his Royall Antiquities. As is more largely expressed in the 2. Article.</p>
+            <p n="3">3 Whether in law and equity there be a suffi<g ref="char:EOLhyphen"/>cient ground for citation of any who enters in Treaty of Communication and friendship with an utter or a vowed enemy of the Estate, de<g ref="char:EOLhyphen"/>clared and avowed so often by the Estates, and by themselves as members of the Estate: ac<g ref="char:EOLhyphen"/>cording to the particulars now fully set downe in the 3. Article.</p>
+            <pb n="5" facs="tcp:157055:3"/>
+            <p n="4">4 Wether in law and equity there be a suffi<g ref="char:EOLhyphen"/>cient ground for citation of any who hath ex<g ref="char:EOLhyphen"/>pressed dishonourable and reproachfull spee<g ref="char:EOLhyphen"/>ches of the Kings Majestie and of his govern<g ref="char:EOLhyphen"/>ment &amp;c. According to the 4. Article.</p>
+            <p n="5">5 Whether in law and equitie there be suffici<g ref="char:EOLhyphen"/>ent ground for citation of any person who hath combyned with the a voued and publike ene<g ref="char:EOLhyphen"/>my of the Estate, for the ransversing of some Actes of the last Parliament, and Articles of the Treaty, notwithstanding of the subcribing of the Bond of maintenance, and publike in<g ref="char:EOLhyphen"/>structions contrary therevnto. As is largly set downe in the 5. Article.</p>
+            <p n="6">6 Whether in law and eqiutie there be suffici<g ref="char:EOLhyphen"/>ent ground for citation of any person who hath procured the deminition and innovation of the dignity and authoritie of the Parliament, contrary to the publike faith, instructions and Actes of Parliament. As is fully set downe in the 6. Article.</p>
+            <p n="7">7 Whether in law and equitie there be suffi<g ref="char:EOLhyphen"/>cient ground for citation before the Parlia<g ref="char:EOLhyphen"/>ment, such contumatious persons, as will no wayes answer vnto, nor acknowledge the Committee of Estates established by Acte of Parliament which themselves are bound to miantaine, according to the generall Bond &amp;c. As is particularly set downe in the 7. Article.</p>
+            <p n="8">8 Whether in law and equitie there be suffici<g ref="char:EOLhyphen"/>ent ground for citation before the Parliament: any who contrary to their oath and subscipti<g ref="char:EOLhyphen"/>ons hath practised and entercommuned with
+<pb n="6" facs="tcp:157055:4"/>the avowd enemies of the Estate: against whom commission was directed by the Estate: As is more largely se<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> downe in the 8. Article.</p>
+         </div>
+         <div type="document">
+            <head>Orders by the Parliament for Marching of the Scottes Army.</head>
+            <p>THat the Generall may dismisse such Re<g ref="char:EOLhyphen"/>giments whom hee thinkes fitt; to goe home by the neerest way, to their owne Shyres, when they crosse <hi>Tweed.</hi> And for the remnant whom hee brings a long this way, that hee would bee advancing with those Regiments, which cannot be disbanded, till they come thither.</p>
+            <p>That the Generall satisfie all those whom he thinkes necessary to dismisse, as he and they can agree; but that this Pay bee not given to the Souldiers, but onely some portion, for their expences vpon the way: And the rest thereof delivered to Officers, or responsall Gentlemen, till they come to the places where they are to disband, (within their owne shires) and deliver their Horses and Armes. And where that agreement cannot be made; and the accompts are not fitted, that what is detained, is not of the Pay due to the Officers, till the said Officers com heere, to fitt the accompts; and that the Armes and Horses bee delivered: and that consideration be had by the Generall of the skaith, or damage don by some Regi<g ref="char:EOLhyphen"/>ments and Troupes, to the Shyres where they were inquartered in England, (for the which securitie is given them by the Committee) that the same may be deduced off the Pay due
+<pb n="7" facs="tcp:157055:4"/>to the Regiment or Troupe; or at least, consi<g ref="char:EOLhyphen"/>deration be had of the same. And although this be the opinion of the Parliament: yet they will not tye the Generall to the absolute obedi<g ref="char:EOLhyphen"/>ence thereof: but permits him to vse his owne discretion, according as he finds the necessity, or expedience of the Army to require.</p>
+         </div>
+         <div type="document">
+            <head>The 26. of August 1641. <hi>Rege presente.</hi>
+            </head>
+            <p>THe Kings Majestie and Estates of Parlia<g ref="char:EOLhyphen"/>ment, Ratifies the Treaty, and approues the Act of Ratification, which was sub<g ref="char:EOLhyphen"/>scribed by his Majesties owne hand: and sub<g ref="char:EOLhyphen"/>scribed by the President. (the L. Balmerinoth) and both the Treaty, &amp; the Act of Ratification foresaid touched with the Scepter; the Kings advocate produced a paper, which hee desired to be prefixed to the Treaty, when it shall passe the Great Seale. Whereof appoints a Coppie to be given to every Estate, that they may bee advised therewith.</p>
+            <p>The Estates appoints Committees to keepe their meetings precisely at 3. a clock in the af<g ref="char:EOLhyphen"/>ter noone, in the Parliament house: vnder the same paines for absence and late comming. As is contained in the Act, for absence in the Par<g ref="char:EOLhyphen"/>liament, or late comming. And ordaines the ordinary Massers to attend them.</p>
+            <p>The Estates nominates the Earles of <hi>Argile, Casles,</hi> and <hi>Louthian,</hi> for the Nobillitie. The Lairds of <hi>Dundas, Jnnes,</hi> and <hi>Kersse</hi> for the Barons, the Commissioners of <hi>Aberdin, Glas<g ref="char:EOLhyphen"/>gowe,</hi> and <hi>Eurwen,</hi> for the Borroughes, and o<g ref="char:EOLhyphen"/>ther
+<pb n="8" facs="tcp:157055:5"/>Commissioners as they are called. And M<seg rend="sup">r</seg>
+               <hi>Archibald Johnston</hi> to speake with his Ma<g ref="char:EOLhyphen"/>jestie anent these things which are not fully determined in the Treatie, but remitted to bee concluded by the King and Parliament. And is to desire his Majestie that he would consent these former Actes may be proposed, and pre<g ref="char:EOLhyphen"/>pared in this Session of Parliament: (where<g ref="char:EOLhyphen"/>of his Majestie hath an index) and may be now enacted. And to speake to the King, anent the disbanding of the English Army, &amp; Garrisons of <hi>Barwick,</hi> and <hi>Carleil,</hi> conforme to the Treaty.</p>
+            <p>This day a Committee was sent to his Ma<g ref="char:EOLhyphen"/>jestie to know his Royall pleasure anent pla<g ref="char:EOLhyphen"/>cing of Officers of Estate; And that nothing may be don in this, without consent of Par<g ref="char:EOLhyphen"/>liament. Vnto which his Majestie assented, provisionally that it might not prejudice Sir <hi>Iohn Hamilton</hi> of <hi>Orbiston</hi> whom hee had now made <hi>Clarke. Register.</hi>
+            </p>
+            <p>There is a motion made, that no office of Estate, or Iustice or Iudges place, may bee bought or sould.</p>
+            <div type="part">
+               <head>
+                  <hi>August</hi> 27.</head>
+               <p>Mention being made this day of his Ma<g ref="char:EOLhyphen"/>jesties <hi>Declaration,</hi> and Act following thereupon; anent the committing of the Laird of <hi>Lanton,</hi> to be omitted out of the Records; and onely the last part of the Act to be Recorded, making mention, that his Majestie for himselfe, and his successors, declares; That he will not commit any Member of the House, without advice of the House, for any misdemenuor in time of Parliament.</p>
+            </div>
+            <trailer>FJNJS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
